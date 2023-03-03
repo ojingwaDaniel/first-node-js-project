@@ -16,6 +16,27 @@ fs.readFile('./docs/blog1.txt',(err,data)=>{
 })
 console.log('the last code ')
 // writing files
+fs.writeFile('./docs/blog2.txt','hi guys is  me again daniel',()=>{
+    console.log('writing to a file')
+})
+// Directories
+if(!fs.existsSync('./assets')){
+    fs.mkdir('./assets',(err)=>{
+        if(err){
+            console.log(err)
+        }
+        console.log('folder created')
+    })
+
+
+}else{
+    fs.rmdir('./assets',(err)=>{
+        if(err){
+            console.log(err)
+        }
+        console.log('folder deleted')
+    })
+}
 
 
 
