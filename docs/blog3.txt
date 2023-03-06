@@ -1,0 +1,171 @@
+
+SUMMARY
+
+A Skillful and dedicated Virtual Assistant with over 5 years of experience in the Administrative and Office Management field and extensive experience in the coordination, planning, and support of daily operational and administrative functions.
+
+CORE COMPETENCIES
+
+Microsoft Office, Data Entry, Written Communication Skill, Windows OS, Interpersonal Skills, 
+Telephone Skills, Proofreading, Medical Coding, Project Management, Social Media Management, Customer Services Problem Solving.
+
+PROFESSIONAL EXPERIENCE
+
+Virtual Assistance/ Product Manager
+
+Grooming Center - February 2020 – May 2022
+
+Key Deliverable:
+    • Ensuring that each product meets the needs of the target user or customer.
+    • Provide administrative support for executive level staff.
+    • Oversee a wide variety of administrative functions, supporting Executive level projects and 
+               information management processes.
+    • Arrange travel, process expense reports, records management, and special projects.
+    • Create a monthly budget and salary reports and various other Project Manager responsibilities.
+    • Compiled and analyzed data from monthly reports to prepare directors presentations to Executive management.
+
+
+Virtual Assistant
+GHub ­  March 2018 – December 2019
+Key Deliverable:
+    • Used Internet access to research real estate properties for investors across the country to 
+               purchase.
+    • Created databases and spreadsheets to organized properties.
+    • Updated investor accounts and information on a daily basis.
+    • Managed incoming and outgoing phone calls.
+    • Communicated with investors via phone or email on a daily basis.
+    • Communicated with owners regarding home and loan status.
+
+    • Created and maintained a large client base by meeting needs and providing exceptional 
+               customer service.
+
+
+Virtual Assistant
+EasySend ­ 2017 – 2018
+    • Customer service
+    • Project management
+    • Data entry
+    • Word processing
+    • Making travel arrangements
+    • Time management
+    • Communications skills
+
+EDUCATION QUALIFICATION
+Msc – Accounting 2015    
+Bsc – Accounting 2009 - 2014
+I was elated to see an opening for a Front Developer  role. I have experience in HTML, CSS, JavaScript, React.js, Node.js and Next.js. Combined with my current job in full-stack web development, I am confident I have the skills to help your Company succeed.
+
+During my job with Nixcode and Gitstart, I gained hands-on experience coding websites and applications. One of my projects was developing a web-based application for an event management client using React and Material-UI. The app helped increase their event sign-ups by 40%.  I also gained valuable teamwork and communication skills that will make me a great asset to your Company.
+
+Similar to your Company, I am dedicated to building easy-to-use, user-friendly websites, and applications. I am inspired by the work that your Company does. I want to bring my experience in web development and my passion for finding creative solutions to help your Company excel.
+
+I have attached a copy of my resume detailing my education and experience. I can be reached anytime by phone at +2347066885644 or email at ojingwaoji@gmail.com. Thank you for your time and consideration. I look forward to speaking with you soon.
+
+Sincerely, 
+Chidiebere Ojingwa
+FAITH IDOWU
+Email: faithid10@gmail.com | Phone:  +2347041377431 
+Portfolio: seyidayo.github.io | Github: github.com/seyidayo | LinkedIn: linkedin.com/in/faithidowu 
+
+EXPERIENCE
+Lead Frontend Engineer, Jetseed										June 2020 - Present
+    • Reduced app size by ~35% to improve load time, this led to an increase in average app rating from 3.7 to 4.4.
+    • Implemented modern SEO and WCAG practices which led to an improvement in search from pages 3 to 1 for related terms.
+    • Implemented a new interface that led to a 3x increase in daily signups and a 2x increase in daily savings deposits.
+    • Led efforts to adopt testing, code review and pair programming sessions by the team, this led to a 10% week-on-week drop in sentry errors and 0.004% downtime.
+    • Technologies used: JavaScript, VueJS, NuxtJS, Cypress, Jest, Cordova, Git, GraphQL, Github CI.
+
+Frontend Engineer, Natterbase Limited						         		       
+August 2019 - May 2020
+    • Improved performance and accessibility of existing front-end projects by making use of modern JavaScript, semantic HTML, SEO, and image optimization practice.
+    • Implemented over 100+ design screens across different projects using Vue and integrated REST and GraphQL API endpoints.
+    • Collaborated with a cross-functional team of 5 to make technical decisions on solutions to be used in new and future projects.
+    • Technologies used: JavaScript, VueJS, NuxtJS, Figma, Git, GraphQL, Netlify CI.
+
+Software Engineering Intern, HiiT PLC			         			      		     
+January 2018 - June 2018
+    • Developed front-end components in ReactJS for a hospital management portal, including a simple dashboard that allows doctors to schedule appointments.
+    • Prototyped a new mobile-friendly website for alumni using HTML/CSS and JavaScript.
+    • Technologies used: HTML/CSS, JavaScript, ReactJS.
+
+PROJECTS
+Rapidpay.com
+    • Implemented a web app to process the conversion of NGN to BTC, this led to a 5x increase in daily transactions. 
+    • Technologies used: ReactJS, NextJS.
+WiiCreate.com
+    • Implemented a web app that enables users to upload designs, customize and order branded merch and items.
+    • Automated continuous delivery of production software using Github and Netlify CI tools.
+    • Technologies used: Figma, ReactJS, Redux.
+Fuudzie.com(defunct)
+    • Reduced technical debts by optimizing existing code for performance led to an improvement in load time by ~60%.
+    • Designed and implemented a new interface which led to increasing usability and a 70% increase in transactions completed.
+    • Automated continuous deployment of production software using GitLab and Netlify CI tools.
+    • Technologies used: Figma, VueJS, NuxtJS, NodeJS.
+More sleep
+    • Designed and implemented front-end components for an app using GatsbyJS to learn more about JAMStack architecture,
+    • Built serverless functions to provide server-side functionalities such as authentication, payment and scheduling.
+    • Technologies used: Typescript, ReactJS, GatsbyJS.
+Goodtalent ATS
+    • Implemented 60+ UI designs and an end-user dashboard that was repurposed for four user levels which saved time and cost.
+    • Technologies used: Figma, VueJS, NuxtJS.
+
+SKILLS
+Languages/Frameworks: Typescript/JavaScript, VueJS, NuxtJS, ReactJS, Redux, GatsbyJS, GraphQL, HTML5, CSS3. SCSS.
+Software/Tools: Git, VSCode, Bash, Figma, Trello, Slack, Github, Jetbrains Space.FAITH IDOWU
+Email: faithid10@gmail.com | Phone:  +2347041377431 
+Portfolio: seyidayo.github.io | Github: github.com/seyidayo | LinkedIn: linkedin.com/in/faithidowu 
+
+EXPERIENCE
+Lead Frontend Engineer, Jetseed										June 2020 - Present
+    • Reduced app size by ~35% to improve load time, this led to an increase in average app rating from 3.7 to 4.4.
+    • Implemented modern SEO and WCAG practices which led to an improvement in search from pages 3 to 1 for related terms.
+    • Implemented a new interface that led to a 3x increase in daily signups and a 2x increase in daily savings deposits.
+    • Led efforts to adopt testing, code review and pair programming sessions by the team, this led to a 10% week-on-week drop in sentry errors and 0.004% downtime.
+    • Technologies used: JavaScript, VueJS, NuxtJS, Cypress, Jest, Cordova, Git, GraphQL, Github CI.
+
+Frontend Engineer, Natterbase Limited						         		       
+August 2019 - May 2020
+    • Improved performance and accessibility of existing front-end projects by making use of modern JavaScript, semantic HTML, SEO, and image optimization practice.
+    • Implemented over 100+ design screens across different projects using Vue and integrated REST and GraphQL API endpoints.
+    • Collaborated with a cross-functional team of 5 to make technical decisions on solutions to be used in new and future projects.
+    • Technologies used: JavaScript, VueJS, NuxtJS, Figma, Git, GraphQL, Netlify CI.
+
+Software Engineering Intern, HiiT PLC			         			      		     
+January 2018 - June 2018
+    • Developed front-end components in ReactJS for a hospital management portal, including a simple dashboard that allows doctors to schedule appointments.
+    • Prototyped a new mobile-friendly website for alumni using HTML/CSS and JavaScript.
+    • Technologies used: HTML/CSS, JavaScript, ReactJS.
+
+PROJECTS
+Rapidpay.com
+    • Implemented a web app to process the conversion of NGN to BTC, this led to a 5x increase in daily transactions. 
+    • Technologies used: ReactJS, NextJS.
+WiiCreate.com
+    • Implemented a web app that enables users to upload designs, customize and order branded merch and items.
+    • Automated continuous delivery of production software using Github and Netlify CI tools.
+    • Technologies used: Figma, ReactJS, Redux.
+Fuudzie.com(defunct)
+    • Reduced technical debts by optimizing existing code for performance led to an improvement in load time by ~60%.
+    • Designed and implemented a new interface which led to increasing usability and a 70% increase in transactions completed.
+    • Automated continuous deployment of production software using GitLab and Netlify CI tools.
+    • Technologies used: Figma, VueJS, NuxtJS, NodeJS.
+More sleep
+    • Designed and implemented front-end components for an app using GatsbyJS to learn more about JAMStack architecture,
+    • Built serverless functions to provide server-side functionalities such as authentication, payment and scheduling.
+    • Technologies used: Typescript, ReactJS, GatsbyJS.
+Goodtalent ATS
+    • Implemented 60+ UI designs and an end-user dashboard that was repurposed for four user levels which saved time and cost.
+    • Technologies used: Figma, VueJS, NuxtJS.
+
+SKILLS
+Languages/Frameworks: Typescript/JavaScript, VueJS, NuxtJS, ReactJS, Redux, GatsbyJS, GraphQL, HTML5, CSS3. SCSS.
+Software/Tools: Git, VSCode, Bash, Figma, Trello, Slack, Github, Jetbrains Space.
+
+EDUCATION
+B.Sc. Computer Science, Covenant University, Ota.
+Course Work:  Human and Computer Interaction, Computer Architecture, Concepts of Programming Languages, Software Engineering, Algorithm & Data Structures,
+
+EDUCATION
+B.Sc. Computer Science, Covenant University, Ota.
+Course Work:  Human and Computer Interaction, Computer Architecture, Concepts of Programming Languages, Software Engineering, Algorithm & Data Structures,
+
+
