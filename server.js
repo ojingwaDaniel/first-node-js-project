@@ -4,4 +4,4 @@ const server = http.createServer((request,response)=>{
 })
 server.listen(3000,'localhost',()=>{
     console.log('listening from the port number 3000')
-})
+});
