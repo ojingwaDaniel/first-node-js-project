@@ -1,5 +1,5 @@
 const http = require('http');
-const fs = require('fs')
+const fs = require('fs');
 const server = http.createServer((request,response)=>{
     console.log(request.url,request.method)
     // set header
