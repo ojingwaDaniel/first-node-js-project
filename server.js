@@ -1,7 +1,16 @@
 const http = require('http');
 const fs = require('fs');
+const _ = require('lodash')
 const server = http.createServer((request,response)=>{
-    console.log(request.url,request.method)
+    // lodash
+    const num = _.random(0,30)
+    // console.log(num)
+    const greet = _.once(()=>{
+        console.log('hello guys')
+    greet()
+    })
+    greet()
+    // greet()
     // set header
     response.setHeader('content-type','text/html')
     let path = './views/'
@@ -16,7 +25,7 @@ const server = http.createServer((request,response)=>{
 
         break;
         // Redirect 
-      case "/about-me":
+      case "/about-us":
         response.setHeader('Location','/about')
         response.statusCode = 301;
         response.end()
