@@ -5,15 +5,24 @@ const server = http.createServer((request,response)=>{
     // set header
     response.setHeader('content-type','text/html')
     let path = './views/'
-    switch(request.url){
-        case '/':
-            path += 'index.html'
-            break
-        case '/about':
-            path += 'about.html'
-            break
-        default:
-            path += '404.html'        
+    switch (request.url) {
+      case "/":
+        path += "index.html";
+        response.statusCode = 200;
+        break;
+      case "/about":
+        path += "about.html";
+        response.statusCode = 200;
+
+        break;
+        // Redirect 
+      case "/about-me":
+        response.setHeader('Location','/about')
+        response.statusCode = 301;
+        response.end()
+      default:
+        path += "404.html";
+        response.statusCode = 404;
     }
     fs.readFile(path,(err,data)=>{
         if (err) {
