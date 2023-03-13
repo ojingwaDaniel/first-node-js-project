@@ -1,30 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-     <meta charset="utf-8">
-    <link rel="stylesheet" href="style.css">
-    <title>Danny's Blog | <%= title %> </title>
-</head>
+    <%- include('./partials/head.ejs') %>
 <body>
     <header>HOME </header>
     <p>WELCOME TO THE BEGINNING OF THE PROCESS</p>
-    <nav>
-        <div>
-            <a href="/"> <h1>Danny's Blog</h1>  </a>
-            <p>A news blogs Website</p>
-        </div>
-        <ul>
-            <li>
-                <a href="/">Blogs</a>
-            </li>
-            <li>
-                <a href="/about"> About Us</a>
-            </li>
-            <li>
-                <a href="/blogs/create">New Blogs</a>
-            </li>
-        </ul>
-    </nav>
+    <%- include('./partials/nav.ejs') %>
+    
     <div>
         <h2> All Blogs</h2>
         <% if(blogs.length > 0){ %>
@@ -36,5 +17,7 @@
             <p>No Blogs to display at the moment...</p>
         <% } %>
     </div>
+    
+    <%- include('./partials/footer.ejs') %>
 </body>
 </html>

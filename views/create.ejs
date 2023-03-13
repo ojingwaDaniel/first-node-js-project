@@ -1,38 +1,25 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-     <meta charset="utf-8">
-    <link rel="stylesheet" href="style.css">
-    <title>Danny's Blog | <%= title %></title>
-</head>
+    <%- include('./partials/head.ejs') %>
 
 
 <body>
     <header>ABOUT </header>
-    <nav>
-        <div>
-            <a href="/"> <h1>Danny's Blog</h1>  </a>
-            <p>A news blogs Website</p>
-        </div>
-        <ul>
-            <li>
-                <a href="/">Blogs</a>
-            </li>
-            <li>
-                <a href="/about"> About Us</a>
-            </li>
-            <li>
-                <a href="/blogs/create">New Blogs</a>
-            </li>
-        </ul>
-    </nav>
-    <form action="">
-        <label for="title">TITLE</label>
-        <input type="text" required>
-        <label for="snippet">Blog snippet :</label>
-        <input type="text" required>
-        <label for="body">Blog Body :</label>
-        <textarea name="" id="" cols="30" rows="10" required></textarea>
-    </form>
+     <%- include('./partials/nav.ejs') %>
+     <div>
+        <form action="">
+            <label for="title">TITLE</label>
+            <input type="text" required>
+            <label for="snippet">Blog snippet :</label>
+            <input type="text" required>
+            <label for="body">Blog Body :</label>
+            <textarea name="" id="" cols="30" rows="10" required></textarea>
+            <button>Submit</button>
+         </form>
+
+    </div>
+    
+    
+    <%- include('./partials/footer.ejs') %>
 </body>
 </html>
