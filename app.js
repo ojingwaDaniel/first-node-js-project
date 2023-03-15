@@ -10,7 +10,7 @@ app.use((req,res)=>{
   console.log('New Request Made')
   console.log("host :", req.hostname);
   console.log("path :", req.path);
-  console.log("path :", req.path);
+  console.log("Method :", req.method);
 })
 // getting response
 app.get("/", (request, response) => {
