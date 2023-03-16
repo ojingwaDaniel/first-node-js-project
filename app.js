@@ -6,13 +6,17 @@ app.set('view engine','ejs')
 // listening to request
 app.listen(3000)
 // Middlewares
-app.use((req,res,next)=>{
-  console.log('New Request Made')
-  console.log("host :", req.hostname);
-  console.log("path :", req.path);
-  console.log("Method :", req.method);
-  next()
-})
+// app.use((req,res,next)=>{
+//   console.log('New Request Made')
+//   console.log("host :", req.hostname);
+//   console.log("path :", req.path);
+//   console.log("Method :", req.method);
+//   next()
+// })
+app.use((req, res, next) => {
+  console.log("Other middleware code ");
+  next();
+});
 // getting response
 app.get("/", (request, response) => {
   const blogs = [
@@ -22,6 +26,10 @@ app.get("/", (request, response) => {
     {title : 'Association',snippet : 'Close Friendship you have among people which should be  done intentionally'}
   ]
   response.render('index',{title : 'Home',blogs})
+})
+app.use((req, res, next) => {
+  console.log("Other middleware code ");
+  next();
 });
 app.get("/about", (request, response) => {
     response.render("about",{title : 'About'});
