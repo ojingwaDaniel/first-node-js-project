@@ -6,11 +6,12 @@ app.set('view engine','ejs')
 // listening to request
 app.listen(3000)
 // Middlewares
-app.use((req,res)=>{
+app.use((req,res,next)=>{
   console.log('New Request Made')
   console.log("host :", req.hostname);
   console.log("path :", req.path);
   console.log("Method :", req.method);
+  next()
 })
 // getting response
 app.get("/", (request, response) => {
