@@ -1,8 +1,11 @@
 const express = require('express')
 // express app
 const app = express()
+// requiring morgan
+const morgan  = require('morgan')
 // registering ejs
 app.set('view engine','ejs')
+app.use(morgan('dev'))
 // listening to request
 app.listen(3000)
 // Middlewares
