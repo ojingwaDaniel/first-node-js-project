@@ -15,10 +15,10 @@ app.listen(3000)
 // app.use((req,res,next)=>{
 //   console.log('New Request Made')
 //   console.log("host :", req.hostname);
-//   console.log("path :", req.path);
-//   console.log("Method :", req.method);
-//   next()
-// })
+  console.log("path :", req.path);
+  console.log("Method :", req.method);
+  next()
+})
 
 // getting response
 app.get("/", (request, response) => {
