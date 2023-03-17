@@ -12,9 +12,9 @@ app.use(morgan("tiny"));
 // listening to request
 app.listen(3000)
 // Middlewares
-// app.use((req,res,next)=>{
-//   console.log('New Request Made')
-//   console.log("host :", req.hostname);
+app.use((req,res,next)=>{
+  console.log('New Request Made')
+  console.log("host :", req.hostname);
   console.log("path :", req.path);
   console.log("Method :", req.method);
   next()
