@@ -5,7 +5,10 @@ const app = express()
 const morgan  = require('morgan')
 // registering ejs
 app.set('view engine','ejs')
-app.use(morgan('dev'))
+// middleware and static files
+app.use(express.static('public'))
+app.use(morgan("tiny"));
+
 // listening to request
 app.listen(3000)
 // Middlewares
@@ -16,10 +19,7 @@ app.listen(3000)
 //   console.log("Method :", req.method);
 //   next()
 // })
-app.use((req, res, next) => {
-  console.log("Other middleware code ");
-  next();
-});
+
 // getting response
 app.get("/", (request, response) => {
   const blogs = [
@@ -30,15 +30,11 @@ app.get("/", (request, response) => {
   ]
   response.render('index',{title : 'Home',blogs})
 })
-app.use((req, res, next) => {
-  console.log("Other middleware code ");
-  next();
-});
 app.get("/about", (request, response) => {
     response.render("about",{title : 'About'});
 });
 // create blog
-app.get('/blogs/create',(req,res)=>{
+app.get("/blogs/create",(req,res)=>{
   res.render('create',{title : 'Create A New Blog'})
 })
 // 404 error

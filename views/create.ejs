@@ -1,13 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
     <%- include('./partials/head.ejs') %>
-
-
 <body>
     <header>ABOUT </header>
-     <%- include('./partials/nav.ejs') %>
+     <%-include('./partials/nav.ejs') %>
      <div>
-        <form action="" class="create-blog form">
+        <form action="">
             <label for="title">TITLE</label>
             <input type="text" required>
             <label for="snippet">Blog snippet :</label>
@@ -18,8 +16,6 @@
          </form>
 
     </div>
-    
-    
     <%- include('./partials/footer.ejs') %>
 </body>
 </html>
