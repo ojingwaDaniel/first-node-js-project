@@ -2,7 +2,7 @@ const express = require('express');
 // express app
 const app = express();
 // requiring morgan
-const morgan  = require('morgan')
+const morgan  = require('morgan');
 // registering ejs
 app.set('view engine','ejs')
 // middleware and static files
