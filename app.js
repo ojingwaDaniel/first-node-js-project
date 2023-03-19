@@ -12,7 +12,7 @@ app.use(express.static('public'));
 app.use(morgan("tiny"));
 
 // listening to request
-app.listen(3000)
+app.listen(3000);
 // Middlewares
 app.use((req,res,next)=>{
   console.log('New Request Made')
