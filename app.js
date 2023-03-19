@@ -1,6 +1,9 @@
 const express = require('express');
 // express app
 const app = express();
+// connecting to MongoDb
+const dbURl =
+  "mongodb+srv://blogWebsite:96@!danny82@blogwebsite.gubjftc.mongodb.net/?retryWrites=true&w=majority";
 // requiring morgan
 const morgan  = require('morgan');
 // registering ejs
