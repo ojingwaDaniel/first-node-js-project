@@ -2,12 +2,11 @@ const express = require('express');
 // express app
 const app = express();
 // connecting to MongoDb
-const dbURl =
-  "mongodb+srv://blogWebsite:96@!danny82@blogwebsite.gubjftc.mongodb.net/?retryWrites=true&w=majority";
+const dbURl = "mongodb+srv://blogWebsite:96@!danny82@blogwebsite.gubjftc.mongodb.net/?retryWrites=true&w=majority";
 // requiring morgan
 const morgan  = require('morgan');
 // registering ejs
-app.set('view engine','ejs')
+app.set('view engine','ejs');
 // middleware and static files
 app.use(express.static('public'))
 app.use(morgan("tiny"));
