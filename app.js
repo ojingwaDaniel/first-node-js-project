@@ -6,7 +6,7 @@ const dbURl = "mongodb+srv://blogWebsite:96@!danny82@blogwebsite.gubjftc.mongodb
 // requiring morgan
 const morgan  = require('morgan');
 // registering ejs
-app.set('view engine','ejs');
+app.set('view engine','ejs')
 // middleware and static files
 app.use(express.static('public'))
 app.use(morgan("tiny"))
