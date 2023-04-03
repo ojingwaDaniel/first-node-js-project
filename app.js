@@ -19,6 +19,7 @@ app.use((req, res, next) => {
   console.log("host :", req.hostname);
   console.log("path :", req.path);
   console.log("Method :", req.method);
+  console.log("Method :", req.method);
   next();
 });
 
