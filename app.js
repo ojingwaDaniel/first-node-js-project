@@ -20,6 +20,7 @@ app.use((req, res, next) => {
   console.log("path :", req.path);
   console.log("Method :", req.method);
   console.log("Method :", req.method);
+  console.log("Method :", req.method);
   next();
 });
 
